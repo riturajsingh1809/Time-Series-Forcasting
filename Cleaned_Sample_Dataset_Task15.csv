@@ -1,0 +1,85 @@
+Date,Sales,Orders,Customers,Region,Product_Category,Year,Month,Month_Name,Quarter
+2019-01-01,10322.86,126.0,64.0,North,Electronics,2019,1,January,1
+2019-02-01,10906.51,141.0,73.0,West,Office Supplies,2019,2,February,1
+2019-03-01,12172.61,145.0,90.0,North,Furniture,2019,3,March,1
+2019-04-01,13079.13,164.0,96.0,West,Furniture,2019,4,April,2
+2019-05-01,11792.19,115.0,77.0,West,Furniture,2019,5,May,2
+2019-06-01,11229.74,113.0,70.0,South,Electronics,2019,6,June,2
+2019-07-01,11604.8,123.0,73.0,West,Electronics,2019,7,July,3
+2019-08-01,10273.53,102.0,66.0,South,Electronics,2019,8,August,3
+2019-09-01,13867.23,90.0,60.0,West,Electronics,2019,9,September,3
+2019-10-01,9420.13,117.0,76.0,East,Electronics,2019,10,October,4
+2019-11-01,9103.79,89.0,72.0,East,Office Supplies,2019,11,November,4
+2019-12-01,9857.52,108.0,61.0,East,Office Supplies,2019,12,December,4
+2020-01-01,11313.9,114.0,77.0,West,Electronics,2020,1,January,1
+2020-02-01,10909.38,107.0,91.0,South,Furniture,2020,2,February,1
+2020-03-01,11787.05,139.0,95.0,South,Electronics,2020,3,March,1
+2020-04-01,12880.3,156.5,86.0,West,Office Supplies,2020,4,April,2
+2020-05-01,12442.67,152.0,103.0,East,Office Supplies,2020,5,May,2
+2020-06-01,12742.81,145.0,100.0,East,Furniture,2020,6,June,2
+2020-07-01,11144.72,112.0,77.0,South,Office Supplies,2020,7,July,3
+2020-08-01,10013.33,99.0,66.0,East,Electronics,2020,8,August,3
+2020-09-01,11321.54,151.0,76.0,North,Furniture,2020,9,September,3
+2020-10-01,10077.34,112.0,77.0,South,Electronics,2020,10,October,4
+2020-11-01,10605.53,121.0,70.0,East,Electronics,2020,11,November,4
+2020-12-01,10390.78,127.0,80.0,South,Furniture,2020,12,December,4
+2021-01-01,11959.4,152.0,89.0,North,Electronics,2021,1,January,1
+2021-02-01,13381.74,157.0,87.0,Unknown,Office Supplies,2021,2,February,1
+2021-03-01,13316.72,129.0,89.0,South,Electronics,2021,3,March,1
+2021-04-01,14646.61,173.0,93.0,South,Furniture,2021,4,April,2
+2021-05-01,13867.23,153.0,93.0,South,Furniture,2021,5,May,2
+2021-06-01,13505.58,141.0,93.0,North,Furniture,2021,6,June,2
+2021-07-01,12500.46,146.0,101.0,West,Electronics,2021,7,July,3
+2021-08-01,13291.93,128.0,97.0,South,Furniture,2021,8,August,3
+2021-09-01,11516.72,111.0,87.0,South,Furniture,2021,9,September,3
+2021-10-01,10693.21,130.0,82.0,East,Electronics,2021,10,October,4
+2021-11-01,12252.92,136.0,75.0,South,Office Supplies,2021,11,November,4
+2021-12-01,11679.95,139.0,85.0,East,Electronics,2021,12,December,4
+2022-01-01,13605.64,163.0,85.0,West,Furniture,2022,1,January,1
+2022-02-01,13867.23,173.0,89.0,North,Furniture,2022,2,February,1
+2022-03-01,14358.18,154.0,92.0,North,Electronics,2022,3,March,1
+2022-04-01,15687.0,174.0,110.0,West,Office Supplies,2022,4,April,2
+2022-05-01,15894.27,208.0,109.0,North,Furniture,2022,5,May,2
+2022-06-01,14963.2,180.0,105.0,West,Furniture,2022,6,June,2
+2022-07-01,13973.02,137.0,108.0,West,Furniture,2022,7,July,3
+2022-08-01,13048.86,159.0,86.0,West,Electronics,2022,8,August,3
+2022-09-01,11721.08,148.0,88.0,North,Furniture,2022,9,September,3
+2022-10-01,12069.45,135.0,100.0,East,Office Supplies,2022,10,October,4
+2022-11-01,12575.47,120.0,84.0,West,Furniture,2022,11,November,4
+2022-12-01,14317.25,174.0,112.0,South,Furniture,2022,12,December,4
+2023-01-01,14849.86,156.0,91.0,North,Electronics,2023,1,January,1
+2023-02-01,14476.92,148.0,89.0,West,Furniture,2023,2,February,1
+2023-03-01,16588.78,202.0,103.0,West,Electronics,2023,3,March,1
+2023-04-01,16465.36,156.5,120.0,South,Electronics,2023,4,April,2
+2023-05-01,16130.89,187.0,134.0,East,Electronics,2023,5,May,2
+2023-06-01,16406.02,175.0,101.0,East,Office Supplies,2023,6,June,2
+2023-07-01,15874.97,169.0,114.0,East,Furniture,2023,7,July,3
+2023-08-01,15006.54,165.0,92.0,West,Electronics,2023,8,August,3
+2023-09-01,13293.25,171.0,81.0,West,Office Supplies,2023,9,September,3
+2023-10-01,13492.99,135.0,85.0,West,Furniture,2023,10,October,4
+2023-11-01,14246.84,168.0,107.0,North,Office Supplies,2023,11,November,4
+2023-12-01,15420.85,191.0,112.0,South,Electronics,2023,12,December,4
+2024-01-01,15471.67,203.0,98.0,West,Electronics,2024,1,January,1
+2024-02-01,16658.84,180.0,124.0,South,Electronics,2024,2,February,1
+2024-03-01,16815.63,176.0,132.0,South,Office Supplies,2024,3,March,1
+2024-04-01,17094.75,226.0,118.0,East,Office Supplies,2024,4,April,2
+2024-05-01,13867.23,202.0,113.0,North,Electronics,2024,5,May,2
+2024-06-01,18046.62,221.0,119.0,West,Office Supplies,2024,6,June,2
+2024-07-01,16314.64,173.0,112.0,East,Electronics,2024,7,July,3
+2024-08-01,16210.13,202.0,130.0,East,Electronics,2024,8,August,3
+2024-09-01,15230.43,159.0,103.0,West,Furniture,2024,9,September,3
+2024-10-01,14431.27,167.0,88.0,South,Office Supplies,2024,10,October,4
+2024-11-01,15423.05,150.0,122.0,East,Electronics,2024,11,November,4
+2024-12-01,16943.1,214.0,118.0,South,Electronics,2024,12,December,4
+2025-01-01,16916.47,198.0,106.0,North,Office Supplies,2025,1,January,1
+2025-02-01,18953.16,242.0,124.0,South,Furniture,2025,2,February,1
+2025-03-01,16988.54,165.0,112.0,North,Furniture,2025,3,March,1
+2025-04-01,19563.15,193.0,129.0,South,Electronics,2025,4,April,2
+2025-05-01,18940.73,229.0,139.0,East,Office Supplies,2025,5,May,2
+2025-06-01,18127.33,191.0,136.0,East,Furniture,2025,6,June,2
+2025-07-01,17577.72,177.0,112.0,North,Office Supplies,2025,7,July,3
+2025-08-01,15422.54,168.0,99.0,West,Office Supplies,2025,8,August,3
+2025-09-01,16009.21,176.0,101.0,North,Electronics,2025,9,September,3
+2025-10-01,16239.35,197.0,101.0,North,Furniture,2025,10,October,4
+2025-11-01,17305.4,222.0,121.0,South,Electronics,2025,11,November,4
+2025-12-01,16763.12,164.0,118.0,South,Furniture,2025,12,December,4
